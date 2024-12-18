@@ -64,4 +64,4 @@ Fill me in please! Don’t forget code examples:
 say_hello("Nikhil")
 ```
 
-    2
+    'Hello Nikhil!'
