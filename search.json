@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "mytest.html",
+    "href": "mytest.html",
+    "title": "mytest",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to:str)\n\nSay hello to somebody\n\n\n\n\nType\nDetails\n\n\n\n\nto\nstr\nname of the person\n\n\nReturns\nstr\n\n\n\n\n\ntest_eq(say_hello(\"Nikhil\"), \"Hello Nikhil!\")",
+    "crumbs": [
+      "mytest"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev_test"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "nbdev_test",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall nbdev_test in Development mode\n# make sure nbdev_test package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to nbdev_test\n$ nbdev_prepare",
+    "crumbs": [
+      "nbdev_test"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "nbdev_test",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/ngupta23/nbdev_test.git\nor from conda\n$ conda install -c ngupta23 nbdev_test\nor from pypi\n$ pip install nbdev_test\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "nbdev_test"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nsay_hello(\"Nikhil\")\n\n'Hello Nikhil!'",
+    "crumbs": [
+      "nbdev_test"
+    ]
+  }
+]
