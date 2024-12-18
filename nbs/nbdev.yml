@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://ngupta23.github.io/nbdev_test"
+  description: "Testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ngupta23/nbdev_test"
